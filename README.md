@@ -52,7 +52,7 @@ To run the Discord bot locally or on your server, follow these steps:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/your-username/discord-bot.git`
+    `git clone https://github.com/someshsurve/kawaii_bot`
 
 2.  Install the required dependencies:
 
