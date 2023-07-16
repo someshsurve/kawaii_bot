@@ -12,6 +12,9 @@ This Discord bot is designed to enhance server functionality by providing variou
 -   Endorsement Leaderboard: Displays a sorted list of users based on the number of endorsements they received.
 -   Points System: Tracks the total number of endorsement points received by specific user.
 
+### bot link
+``` https://discord.com/api/oauth2/authorize?client_id=1129299200081928282&permissions=8&scope=bot```
+
 Commands and Usage
 ------------------
 ### prefix based commands
